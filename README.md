@@ -31,6 +31,7 @@ I'm always excited to collaborate, learn from others, and work on new and challe
 
 - 📧 Email: [sheroz.akram@proton.me](mailto:sheroz.akram@proton.me)
 - 💼 LinkedIn: [Sheroz Akram](https://www.linkedin.com/in/shehroz-akram/)
+- 🐦 Twitter [Sheroz Akram](https://twitter.com/SherozAkram)
 - 🌐 Portfolio: [Sheroz Akram Website](https://sheroz-akram.github.io/)
 
 Let's build amazing things together! 🤝✨
