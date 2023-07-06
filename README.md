@@ -29,8 +29,8 @@ I am constantly striving to expand my knowledge and stay up-to-date with the lat
 
 I'm always excited to collaborate, learn from others, and work on new and challenging projects. Feel free to reach out to me through the following channels:
 
-- 📧 Email: [your-email@example.com](mailto:sheroz.akram@proton.me)
+- 📧 Email: [sheroz.akram@proton.me](mailto:sheroz.akram@proton.me)
 - 💼 LinkedIn: [Sheroz Akram](https://www.linkedin.com/in/shehroz-akram/)
-- 🌐 Portfolio: [www.sherozakram.com](https://sheroz-akram.github.io/)
+- 🌐 Portfolio: [Sheroz Akram Website](https://sheroz-akram.github.io/)
 
 Let's build amazing things together! 🤝✨
