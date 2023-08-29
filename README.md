@@ -7,10 +7,10 @@ Hey there! 👋 I'm Sheroz Akram, a determined software engineer with a deep pas
 ## 🚀 Expertise
 
 - ✨ Full-stack web development
-- 🌐 Front-end frameworks (React, Angular)
-- 🧠 Backend technologies (Node.js, Express)
+- 🌐 Front-end frameworks (React, HTML, CSS, JavaScript)
+- 🧠 Backend technologies (Node.js, Express, Django, PHP)
 - 🗄️ Database management (MySQL, MongoDB)
-- 📱 Mobile app development (React Native)
+- 📱 Mobile app development (React Native, Android Studio Kotlin)
 
 ## 💡 Projects
 
