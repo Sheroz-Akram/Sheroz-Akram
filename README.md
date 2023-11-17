@@ -10,7 +10,8 @@ Hey there! 👋 I'm Sheroz Akram, a determined software engineer with a deep pas
 - 🌐 Front-end frameworks (React, HTML, CSS, JavaScript)
 - 🧠 Backend technologies (Node.js, Express, Django, PHP)
 - 🗄️ Database management (MySQL, MongoDB)
-- 📱 Mobile app development (React Native, Android Studio Kotlin)
+- 📱 Mobile app development (Android Studio Kotlin)
+- 💻 Cross Platform Application development (Flutter)
 
 ## 💡 Projects
 
@@ -29,9 +30,8 @@ I am constantly striving to expand my knowledge and stay up-to-date with the lat
 
 I'm always excited to collaborate, learn from others, and work on new and challenging projects. Feel free to reach out to me through the following channels:
 
-- 📧 Email: [sheroz.akram@proton.me](mailto:sheroz.akram@proton.me)
+- 📧 Email: [sheroz.akram@outlook.com](mailto:sheroz.akram@outlook.com)
 - 💼 LinkedIn: [Sheroz Akram](https://www.linkedin.com/in/shehroz-akram/)
-- 🐦 Twitter [Sheroz Akram](https://twitter.com/SherozAkram)
 - 🌐 Portfolio: [Sheroz Akram Website](https://sheroz.pages.dev/)
 
 Let's build amazing things together! 🤝✨
