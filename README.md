@@ -31,7 +31,7 @@ I am constantly striving to expand my knowledge and stay up-to-date with the lat
 I'm always excited to collaborate, learn from others, and work on new and challenging projects. Feel free to reach out to me through the following channels:
 
 - 📧 Email: [sheroz.akram@outlook.com](mailto:sheroz.akram@outlook.com)
-- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/shehroz-akram/)
+- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/sheroz-akram/)
 - 🌐 Website: [Click Here](https://sheroz.pages.dev/)
 
 Let's build amazing things together! 🤝✨
