@@ -5,7 +5,6 @@
 Hey there! 👋 I'm Sheroz Akram, a determined software engineer with a deep passion for creating innovative solutions.  Currently, I am pursuing my Bachelor's degree at UCP (University of Central Punjab) in the field of Computer Science.
 
 # 📊 Stats:
-![](https://github-stats-extended.vercel.app/api?username=Sheroz-Akram&theme=radical)
 ![](https://streak-stats.demolab.com/?user=Sheroz-Akram&theme=radical&hide_border=false)
 
 ## 🚀 Expertise
